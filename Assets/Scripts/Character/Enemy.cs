@@ -57,7 +57,7 @@ namespace Enemy
             InitStyles();
             if (curHealth > 0)
                 GUI.Box(new Rect(HealthBarLeft.x, Screen.height - HealthBarLeft.y, healthBarLength, 10f), "", HealthBarStyle);
-            if (maxCD > 0 && maxCD > 0)
+            if (maxCD > 0 && curCD > 0)
                 GUI.Box(new Rect(CDBarLeft.x, Screen.height - CDBarLeft.y, CDBarLength, 5f), "", CDBarStyle);
         }
 

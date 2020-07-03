@@ -89,7 +89,7 @@ public class MenuController : MonoBehaviour
 
     void Click()
     {
-        audioSource.PlayOneShot(MouseClick, Setting.Config.SEVOLUME / 100);
+        audioSource.PlayOneShot(MouseClick, Setting.Config.SEVOLUME / 100f);
     }
 
     IEnumerator LoadScene(string name)

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/Ellis_NB/Desktop/Tetris Combat/TetrisCombat.exe
+C:/Users/Ellis_NB/Desktop/THTC/TetrisCombat.exe
 SceneListBegin?
 Assets/Scenes/TitleScene.unity
 Assets/Scenes/SelectScene.unity
