@@ -1,5 +1,5 @@
 # THTC
-有Bug 遊戲會崩潰 出現時請直接Alt+F4
+有Bug 遊戲會崩潰 出現時請直接Alt+F4\n
 存檔在\AppData\LocalLow\TC_Project 若要刪紀錄直接將TC_Project刪除即可
 
 There are a lot of Bugs in this game, sometime game will crash, when happened just Alt+F4
