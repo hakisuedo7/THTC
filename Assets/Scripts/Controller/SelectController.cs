@@ -32,7 +32,7 @@ public class SelectController : MonoBehaviour
     {
         for(int i = 0; i <= Setting.Config.PROGRESS; i++)
         {
-            if (Stages[i])
+            if (Stages[i] != null)
                 Stages[i].SetActive(true);
         }
     }

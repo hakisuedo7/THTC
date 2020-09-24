@@ -49,7 +49,7 @@ namespace Setting
             _fallTick = 1.5f;
             _movellTick = 0.08f;
             _inputFallTick = 0.08f;
-            _blockDmg = 1;
+            _blockDmg = 10;
         }
 
     }
